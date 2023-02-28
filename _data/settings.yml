@@ -7,12 +7,14 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Interesting Facts',  url: 'facts'}
-- {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
-- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Home',  url: 'home'}
+- {name: 'People', url: 'people'}
+- {name: 'Science',       url: 'science'}
+- {name: 'Publications',      url: 'publications'}
+- {name: 'Blog',            url: 'blog'}
+- {name: 'Announcements',            url: 'announcements'}
+- {name: 'Events',            url: 'events'}
 - {name: 'About',              url: 'about'}
-- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
