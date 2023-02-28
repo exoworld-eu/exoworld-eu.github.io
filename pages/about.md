@@ -4,4 +4,5 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Understanding the evolution of EXOplanets and towards habitable WORLDs (EXOWORLD) is a consortium comprises 12 organisations from 8 countries and it will leverage interdisciplinary and international expertise to study the diversity of exoplanets.
+The objective of EXOWORLD is to develop novel detection, characterisation and statistical techniques for understanding the fundamental physics which drives the evolution of planetary systems and find out what set of conditions lead to a habitable world.
