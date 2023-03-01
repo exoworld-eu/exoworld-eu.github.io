@@ -4,23 +4,6 @@ title: Consortium
 permalink: /consortium
 ---
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.img-container {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-.clearfix::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
 
 The EXOWORLD consortium is made up of 12 partners across 8 countries.
 
