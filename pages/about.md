@@ -9,4 +9,7 @@ The objective of EXOWORLD is to develop novel detection, characterisation and st
 
 The EXOWORLD project is supported by the European Union under the Horizon Europe Programme Marie Skłodowska-Curie Actions Staff Exchanges (Project ID: 101086149; <a href="https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101086149/program/43108390/details">CORDIS</a>).
 
-<img src="/assets/img/eu-funding-logo.jpeg" alt="EU funding logo" height="100">
+<img src="/assets/img/eu-funding-logo.jpeg" alt="EU funding logo" height="80">
+
+
+The website design is based on Jekyll theme Millennial designed bt Paul Le.
