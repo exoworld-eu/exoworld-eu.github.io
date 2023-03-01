@@ -1,12 +1,12 @@
 ---
 layout: page
-title: People
-permalink: /people
+title: Consortium
+permalink: /consortium
 ---
 
 You can find EXOWORLD partner's contacts here.
 
-<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo">
+<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" width="200">
 
 
 Partners:
