@@ -12,4 +12,4 @@ The EXOWORLD project is supported by the European Union under the Horizon Europe
 <img src="/assets/img/eu-funding-logo.jpeg" alt="EU funding logo" height="80">
 
 
-The website design is based on Jekyll theme Millennial designed bt Paul Le.
+The website design is based on Jekyll theme Millennial created by Paul Le.
