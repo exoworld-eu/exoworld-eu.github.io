@@ -110,8 +110,7 @@ Contact: Leonardi Vanzi
 <br>
 Email: lvanzi [at] ing.puc.cl
 
-<h4><b>Center for Planetary Systems Habitability,
-University of Texas at Austin</b></h4>
+<h4><b>University of Texas at Austin, Center for Planetary Systems Habitability</b></h4>
 <a href="https://habitability.utexas.edu/">Website</a>
 <br>
 Contact: William Cochran
