@@ -3,23 +3,29 @@ layout: page
 title: Consortium
 permalink: /consortium
 ---
-
+<html>
 The EXOWORLD consortium is made up of 12 partners across 8 countries.
 
-<div>
-<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
-</div>
-
-<div>
-<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
-</div>
-
+<head>
+<style>
 .div{
 
 float: left;
 
 }
+</head>
+</style>
 
+<body>
+<div>
+<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
+</div>
+<head>
+<div>
+<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
+</div>
+</body>
+</html>
 
 <h3>Partners:</h3>
 <br>
