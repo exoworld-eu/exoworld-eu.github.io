@@ -6,20 +6,23 @@ permalink: /consortium
 
 The EXOWORLD consortium is made up of 12 partners across 8 countries.
 
-<div>
-<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
+<div class="image123">
+    <div class="imgContainer">
+        <img src="/assets/img/dlr-logo.jpeg" height="100">
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="/assets/img/tautenburg-logo.png"/ height="100"/>
+    </div>
 </div>
 
-<div>
-<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
-</div>
+#<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
+#<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
 
 
 
 <h3>Partners:</h3>
 
 <h4><b>Deutschen Zentrums für Luft- und Raumfahrt (DLR) (Coordinator)</b></h4>
-<br>
 <a href="https://www.dlr.de/pf/desktopdefault.aspx/tabid-179/">Website</a>
 <br> 
 Contact: Kristine Lam
@@ -27,7 +30,6 @@ Contact: Kristine Lam
 Email: Kristine.Lam [at] dlr.de
 
 <h4><b>Thüringer Landessternwarte Tautenburg</b></h4>
-<br>
 <a href="http://www.tls-tautenburg.de/TLS/index.php?id=2&L=1">Website</a>
 <br>
 Contact: Artie Hatzes
