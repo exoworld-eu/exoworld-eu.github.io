@@ -8,14 +8,14 @@ The EXOWORLD consortium is made up of 12 partners across 8 countries.
 
 <div class="images-container">
 	<div class="image">
-    	<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo">
-
-    </div>
+    	<img src="/assets/img/dlr-logo.jpeg" alt="Tautenburg logo" height="100">
+	</div>
 
     <div class="image">
-    	<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo">
-
+    	<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
 	</div>
+	
+</div>
 
 #<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
 #<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
