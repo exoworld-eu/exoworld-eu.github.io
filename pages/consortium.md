@@ -3,7 +3,10 @@ layout: page
 title: Consortium
 permalink: /consortium
 ---
-<link href="style.css" rel="stylesheet" type="text/css" />
+<head>
+<link href="../style.css" rel="stylesheet" type="text/css" />
+</head>
+
 
 The EXOWORLD consortium is made up of 12 partners across 8 countries.
 
