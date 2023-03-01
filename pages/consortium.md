@@ -14,21 +14,21 @@ The EXOWORLD consortium is made up of 12 partners across 8 countries.
   <img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
   <img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
   <img src="/assets/img/torino-logo.svg" alt="Torino logo" height="100">
-  <img src="/assets/img/riuuk-logo.jpeg" alt="Torino logo" height="100">
-  <img src="/assets/img/lund-logo.png" alt="Torino logo" height="100">
+  <img src="/assets/img/riuuk-logo.jpeg" alt="RIU logo" height="100">
+  <img src="/assets/img/lund-logo.png" alt="Lund logo" height="100">
 </div>  
 <div class="wrapper">
-  <img src="/assets/img/JSI-logo.jpeg" alt="Torino logo" height="70">
-  <img src="/assets/img/asu-logo.png" alt="Torino logo" height="70">
+  <img src="/assets/img/JSI-logo.jpeg" alt="JSI logo" height="70">
+  <img src="/assets/img/asu-logo.png" alt="Ondrejov logo" height="70">
 </div>
 <div class="wrapper">
-  <img src="/assets/img/mcd-texas-logo.png" alt="DLR logo" height="100">
-  <img src="/assets/img/wesleyan-logo.jpeg" alt="Torino logo" height="100">
-  <img src="/assets/img/nins-abc-logo.png" alt="Torino logo" height="100">
+  <img src="/assets/img/mcd-texas-logo.png" alt="McDonald observatory logo" height="100">
+  <img src="/assets/img/wesleyan-logo.jpeg" alt="Wesleyan logo" height="100">
+  <img src="/assets/img/nins-abc-logo.png" alt="ABC logo" height="100">
 </div>
 <div class="wrapper">
-  <img src="/assets/img/uochile-logo.jpeg" alt="Torino logo" height="100">
-  <img src="/assets/img/puc-logo.png" alt="Torino logo" height="100">
+  <img src="/assets/img/uochile-logo.jpeg" alt="U. Chile logo" height="100">
+  <img src="/assets/img/puc-logo.png" alt="PUC logo" height="100">
 </div>
 
 
