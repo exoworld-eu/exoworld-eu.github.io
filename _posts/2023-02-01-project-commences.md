@@ -2,7 +2,7 @@
 layout: post
 title: "EXOWORLD project commences"
 author: "Kristine Lam"
-categories: announcement
+categories: announcements
 tags: [news]
 image: TRAPPIST-1e_LEO_12x18.jpg 
 ---
