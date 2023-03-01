@@ -7,21 +7,22 @@ permalink: /consortium
 
 The EXOWORLD consortium is made up of 12 partners across 8 countries.
 
-<div class="clearfix">
-  <div class="img-container">
-  <img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
   </div>
-  <div class="img-container">
-  <img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
+  <div class="column">
+    <img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
   </div>
-  <div class="img-container">
-  <img src="/assets/img/torino-logo.svg" alt="Torino logo" height="100">
+  <div class="column">
+    <img src="/assets/img/torino-logo.svg" alt="Torino logo" height="100">
   </div>
 </div>
 
 
 #<img src="/assets/img/dlr-logo.jpeg" alt="DLR logo" height="100">
 #<img src="/assets/img/tautenburg-logo.png" alt="Tautenburg logo" height="100">
+#<img src="/assets/img/torino-logo.svg" alt="Torino logo" height="100">
 
 
 
