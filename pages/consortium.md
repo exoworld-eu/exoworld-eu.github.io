@@ -13,8 +13,9 @@ The EXOWORLD consortium is made up of 12 partners across 8 countries.
 float: left;
 
 }
-</head>
+
 </style>
+</head>
 
 <body>
 <div>
