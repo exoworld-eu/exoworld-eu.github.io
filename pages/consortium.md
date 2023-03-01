@@ -16,6 +16,8 @@ The EXOWORLD consortium is made up of 12 partners across 8 countries.
   <img src="/assets/img/torino-logo.svg" alt="Torino logo" height="100">
   <img src="/assets/img/riuuk-logo.jpeg" alt="Torino logo" height="100">
   <img src="/assets/img/lund-logo.png" alt="Torino logo" height="100">
+</div>  
+<div class="wrapper">
   <img src="/assets/img/JSI-logo.jpeg" alt="Torino logo" height="100">
   <img src="/assets/img/asu-logo.png" alt="Torino logo" height="100">
 </div>
@@ -24,6 +26,8 @@ The EXOWORLD consortium is made up of 12 partners across 8 countries.
   <img src="/assets/img/mcd-texas-logo.png" alt="DLR logo" height="100">
   <img src="/assets/img/wesleyan-logo.jpeg" alt="Torino logo" height="100">
   <img src="/assets/img/nins-abc-logo.png" alt="Torino logo" height="100">
+</div>
+<div class="wrapper">
   <img src="/assets/img/uochile-logo.jpeg" alt="Torino logo" height="100">
   <img src="/assets/img/puc-logo.png" alt="Torino logo" height="100">
 </div>
