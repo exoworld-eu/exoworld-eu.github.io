@@ -1,6 +1,6 @@
-.container {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
-}
+.wrapper {
+  display: flex;
+  grid-gap:10px;
+  flex-wrap: wrap;
+  
+  }
