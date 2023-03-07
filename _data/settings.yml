@@ -9,7 +9,6 @@ google-ID: 'UA-112060364-2'
 menu:
 # - {name: 'Home',  		url: 'home'}
 - {name: 'Science',       	url: 'science'}
-	-{name: 'Characterisation',		url: 'characterisation'}
 - {name: 'Publications',      	url: 'publications'}
 - {name: 'Blog',            	url: 'blog'}
 - {name: 'Announcements',      	url: 'announcements'}
