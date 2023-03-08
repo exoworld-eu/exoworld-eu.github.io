@@ -4,7 +4,7 @@ title: "EXOWORLD celebrates science on International Women's day"
 author: "Priyanka Chaturvedi"
 categories: blog
 tags: [gender diversity, women in science]
-image: img/womens-day-banner.jpg
+image: womens-day-banner.jpg
 ---
 
 Annually the 8th of March is celebrated as the International Women's day.  Historically this day is being celebrated to highlight equal rights for women in all walks of life and draw attention and amendments towards the social disparity, violence and abuse that women suffer in a society. One might argue that there is little need to celebrate such a day in the twenty-first century given that women seem to be at par with men in nearly all fields.
