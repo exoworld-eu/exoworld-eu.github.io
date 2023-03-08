@@ -8,10 +8,11 @@ image: womens-day-banner.jpg
 ---
 
 Annually the 8th of March is celebrated as the International Women's day.  Historically this day is being celebrated to highlight equal rights for women in all walks of life and draw attention and amendments towards the social disparity, violence and abuse that women suffer in a society. One might argue that there is little need to celebrate such a day in the twenty-first century given that women seem to be at par with men in nearly all fields.
-Nature has strived to acheive a balance by having a nearly 50-50 split of men and women on our beloved planet. However, when this comes to the professional front, we often see this ratio skewed with women being under represented in almost all the fields be it the corporate sector, sociology and politics, or even the STEM fields (science, technology, engineering and mathematics). Though the number of young girls seeking higher education has seen a sharp increase globally, women still make nearly one fourth of the STEM fields. The society and the environment surrounding us influence us the most. It is still a preception that STEM jobs are considered masculine and for women to have a career in these fields they should show considerable success as compared to their male peers. Often such sterotypes demotivate women to pursue a career in this field and they start quitting their jobs at various stages while ascending this ladder. Women are also considered to be the backbone of a family and in most cultures considered to be the primary care givers. According to a study by the Nature journal, nearly 40\% of women quit their full time science careers or go part-time after having birth of their first child. This fraction is 23\% when compared to fathers even if they have to cut down a few of their working hours. This statistics is drawn from North America and Europe that largely have developed countries having a gender sensitized parental leave system in place. The data is worse elsewhere. 
+Nature has strived to acheive a balance by having a nearly 50-50 split of men and women on our beloved planet. However, when this comes to the professional front, we often see this ratio skewed with women being under represented in almost all the fields be it the corporate sector, sociology and politics, or even the STEM fields (science, technology, engineering and mathematics). Though the number of young girls seeking higher education has seen a sharp increase globally, women still make nearly one fourth of the STEM fields. The society and the environment surrounding us influence us the most. It is still a preception that STEM jobs are considered masculine and for women to have a career in these fields they should show considerable success as compared to their male peers. Often such sterotypes demotivate women to pursue a career in this field and they start quitting their jobs at various stages while ascending this ladder. Women are also considered to be the backbone of a family and in most cultures considered to be the primary care givers. According to a study by the Nature journal, nearly 40% of women quit their full time science careers or go part-time after having birth of their first child. This fraction is 23% when compared to fathers even if they have to cut down a few of their working hours. This statistics is drawn from North America and Europe that largely have developed countries having a gender sensitized parental leave system in place. The data is worse elsewhere. 
 There is evidence to prove that in countries where women are encouraged to do science and maths and are made to believe that there are no biological differences that should stop them from excelling in research and education have more often opted a career in STEM fields. A lack of role models in the STEM fields also deter young girls to choose a career in STEM. While the situation surrounding us cannot be changed overnight, what we can offer as a society is to highlight the role of women in our vicinity who are engaging in STEM fields and making their mark. 
 Astronomy and astrophysics is one of the oldest amongst the STEM fields. Since ancient times humans have been curious to know if other planets exist, how far they are and if these could hold any possibilities of life. The search for planets beyond our solar system has seen a surge of interest amongst the community in the past few years. This science has been pursued for nearly three decades with more than five thousands exoplanet detections. EXOWORLD is a project that consists of 12 partner institutes from 8 different countries to study the diversity of exoplanets. Secondments will be carried out by both early stage researchers and experienced researchers to achieve objectives in four aspects of exoplanet research: detection, characterisation, statistics and habitability. About one third of the EXOWORLD project scientists are women with the project being led by a woman herself. In order to celebrate this International Women's day, let us meet the women scientists of the EXOWORLD project who are extraordinary in their ordinary ways.
 
+<hr style="border-top: dotted 1px;" />
 ## Kristine Lam
 
 I am Kristine Lam, a postdoc researcher from the Institute of
@@ -34,7 +35,9 @@ evaporating, close-in exoplanets.
 <br>
 <img src="/assets/img/iwd/Kristine-Lam.jpg" alt="Kristine Lam" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Marina Cano Amoros
+<hr>
 
 Hi! I am Marina Cano Amoros. I work as a PhD student at the DLR (German Aerospace
 Center) in Berlin, Germany. Whilst my PhD project focuses on the interior modelling
@@ -58,6 +61,7 @@ it to give it a try; you will love it!
 <br>
 <img src="/assets/img/iwd/Marina-Cano-Amaros.jpg" alt="Marina Cano Amoros" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Zuzana Balkoova
 
 I started my scientific journey on one university, where I got my 
@@ -73,6 +77,7 @@ community.
 <br>
 <img src="/assets/img/iwd/Zuzana-Balkoova.jpg" alt="Zuzana Balkoova" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Elisa Goffo
 
 I am Elisa Goffo and I am a PhD student at the University of Torino, Italy,
@@ -90,6 +95,7 @@ work and live my passion daily.
 <br>
 <img src="/assets/img/iwd/Elisa-Goffo.jpg" alt="Elisa Goffo" height="600">
 
+<hr style="border-top: dotted 1px;" />
 ## Judith Korth
 I am Judith Korth, a researcher working as a postdoctoral fellow at Lund University in Sweden. My research focuses on the characterization of exoplanet systems to explore their dynamics and orbital architectures
 using radial velocity and transit observations. My main research topic
@@ -102,6 +108,7 @@ white dwarf planetary systems.
 <br>
 <img src="/assets/img/iwd/Judith-Korth.jpg" alt="Judith Korth" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Lia Marta Bernabò
 
 I am Lia Marta Bernabò, a PhD student at DLR, in Berlin, Germany. I come from Florence, Italy, where I studied Physics. I then moved to Padova for my master. Back then I worked on protoplanetary discs, in particular the process of dust rejuvenation. It appears in discs when the first giant planets form and excite the orbits of the protoplanets. The latter acquire high velocities and start moving in eccentric orbits, leading to more frequent collisions and therefore injection of second-generation dust. For my PhD, my interest moved to exoplanets. In particular, I study the interior structure of exoplanets. I work between theory and observations. I apply the theory of tidal interaction in a system of binary stars to exoplanetary systems with a close-in planet, by changing the second star into a planet. I study how the planetary orbit changes due to tidal interaction and we measure the rate of this
@@ -111,6 +118,7 @@ rocky one, therefore we can give a hint on the interior of exoplanets.
 <br>
 <img src="/assets/img/iwd/Lia-Marta-Bernabò.jpg" alt="Lia Marta Bernabo" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Marie Karjalainen
 
 I am Marie Karjalainen and I have been fascinated by astronomy already in
@@ -131,6 +139,7 @@ devote most of my research time to exoplanets, and curiosity leads my way.
 <br>
 <img src="/assets/img/iwd/Marie-Karjalainen.jpg" alt="Marie Karjalainen" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Michaela Vítková
 
 I am Michaela Vítková, currently doing my PhD at Masaryk University in 
@@ -150,6 +159,7 @@ opportunity that was given to me and the possibilities yet to come.
 <br>
 <img src="/assets/img/iwd/Michaela-Vitkova.jpg" alt="Michaela Vítková" height="300">
 
+<hr style="border-top: dotted 1px;" />
 ## Priyanka Chaturvedi
 
 I am Priyanka Chaturvedi currently working as a postdoctoral researcher at
