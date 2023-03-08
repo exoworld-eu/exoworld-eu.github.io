@@ -30,6 +30,7 @@ Prior to joining DLR, I pursued my PhD at the University of Warwick where I work
 on detection and characterisation of exoplanets using data from the Wide Angle
 Search for Planets (WASP) survey and K2 mission, as well as characterising
 evaporating, close-in exoplanets.
+<br>
 <img src="/assets/img/iwd/Kristine-Lam.jpg" alt="Kristine Lam" height="300">
 
 ## Marina Cano Amoros
@@ -53,6 +54,7 @@ Ludwig-Maximilian-Universität in Munich and earned my Bachelor's in Physics fro
 Imperial College London. Since starting my Physics degree, I knew I wanted to work
 in astronomy. It is a passionate field, and I encourage anyone who is interested in
 it to give it a try; you will love it!
+<br>
 <img src="/assets/img/iwd/Marina-Cano-Amaros.jpg" alt="Marina Cano Amoros" height="300">
 
 ## Zuzana Balkoova
@@ -67,6 +69,7 @@ I'd return to my childhood interest, which was astronomy. So far I was
 quite successful with my studies, currently I'm working on exoplanets 
 and hoping that one day I may actually contribute to the scientific 
 community.
+<br>
 <img src="/assets/img/iwd/Zuzana-Balkoova.jpg" alt="Zuzana Balkoova" height="300">
 
 ## Elisa Goffo
@@ -83,6 +86,7 @@ systems.
 I am also a member of the KESPRINT and CARMENES consortia.
 I always wanted to be a scientist and I am grateful for the opportunity to
 work and live my passion daily.
+<br>
 <img src="/assets/img/iwd/Elisa-Goffo.jpg" alt="Elisa Goffo" height="300">
 
 ## Judith Korth
@@ -94,6 +98,7 @@ has telescopes around the world. My postdoctoral research started in Sweden in 2
 planetary systems via transit timing variations and radial velocity measurements. I continue my postdoctoral research in Sweden but moved to another place, Lund. I work at Lund University and I widen my main
 research from the dynamics of exoplanetary systems to the evolution of
 white dwarf planetary systems.
+<br>
 <img src="/assets/img/iwd/Judith-Korth.jpg" alt="Judith Korth" height="300">
 
 ## Lia Marta Bernabò
@@ -102,6 +107,7 @@ I am Lia Marta Bernabò, a PhD student at DLR, in Berlin, Germany. I come from F
 change in RVs. The basic idea is that the shape of for example a giant gaseous
 planet is deformed differently - and so its orbit with a different rate - from a
 rocky one, therefore we can give a hint on the interior of exoplanets.
+<br>
 <img src="/assets/img/iwd/Lia-Marta-Benabo.jpg" alt="Lia Marta Bernabo" height="300">
 
 ## Marie Karjalainen
@@ -121,6 +127,7 @@ this time as a support astronomer. In 2019 and 2020 I worked on La Palma for the
 Major Atmospheric Gamma Imaging Cherenkov. Currently, I am a researcher at the
 Astronomical Institute of the Czech Academy of Sciences in Ondrejov, Czech Republic. I
 devote most of my research time to exoplanets, and curiosity leads my way.
+<br>
 <img src="/assets/img/iwd/Marie-Karjalainen.jpg" alt="Marie Karjalainen" height="300">
 
 ## Michaela Vítková
@@ -139,6 +146,7 @@ Now I am part of the Exoplanet Group at the Stellar Department of the
 Astronomical Institute of the Czech Academy of Sciences in Ondřejov.
 My research journey has just begun, and I am grateful for the 
 opportunity that was given to me and the possibilities yet to come.
+<br>
 <img src="/assets/img/iwd/Michaela-Vitkova.jpg" alt="Michaela Vítková" height="300">
 
 ## Priyanka Chaturvedi
@@ -164,4 +172,5 @@ to talk about science and have given many popular level talks on astronomy
 to school and young university students largely within the Indian
 community. I had always dreamt to be an astronomer since my school days
 and I am happy to be paid for what I love.
+<br>
 <img src="/assets/img/iwd/Priyanka-Chaturvedi.jpg" alt="Priyanka Caturvedi" height="300">
