@@ -30,7 +30,7 @@ Prior to joining DLR, I pursued my PhD at the University of Warwick where I work
 on detection and characterisation of exoplanets using data from the Wide Angle
 Search for Planets (WASP) survey and K2 mission, as well as characterising
 evaporating, close-in exoplanets.
-<img src="/assets/img/iwd/Kristine-Lam.jpeg" alt="Kristine Lam">
+<img src="/assets/img/iwd/Kristine-Lam.jpg" alt="Kristine Lam">
 
 ## Marina Cano Amoros
 
