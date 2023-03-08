@@ -87,7 +87,7 @@ I am also a member of the KESPRINT and CARMENES consortia.
 I always wanted to be a scientist and I am grateful for the opportunity to
 work and live my passion daily.
 <br>
-<img src="/assets/img/iwd/Elisa-Goffo.jpg" alt="Elisa Goffo" height="300">
+<img src="/assets/img/iwd/Elisa-Goffo.jpg" alt="Elisa Goffo" height="600">
 
 ## Judith Korth
 I am Judith Korth, a researcher working as a postdoctoral fellow at Lund University in Sweden. My research focuses on the characterization of exoplanet systems to explore their dynamics and orbital architectures
@@ -108,7 +108,7 @@ change in RVs. The basic idea is that the shape of for example a giant gaseous
 planet is deformed differently - and so its orbit with a different rate - from a
 rocky one, therefore we can give a hint on the interior of exoplanets.
 <br>
-<img src="/assets/img/iwd/Lia-Marta-Benabo.jpg" alt="Lia Marta Bernabo" height="300">
+<img src="/assets/img/iwd/Lia-Marta-Bernabò.jpg" alt="Lia Marta Bernabo" height="300">
 
 ## Marie Karjalainen
 
