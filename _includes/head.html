@@ -24,4 +24,6 @@
   {% include google-analytics.html %}
   <!-- Use Jekyll SEO plugin -->
   {% seo %}
+  <!-- Read calendar CSS files -->
+  {{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
 </head>
