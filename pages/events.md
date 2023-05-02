@@ -5,7 +5,7 @@ permalink: /events
 
 ---
 
-Upcoming events:
+Next event:
 
 <h2>Writing better scientific papers and proposals workshop</h2>
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MmY0b2FmZXJpcHZzOTNkZW9wNjZnY2VlY28gZXhvd29ybGQuZXVAbQ&amp;tmsrc=exoworld.eu%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
