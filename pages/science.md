@@ -27,19 +27,17 @@ The project will focus on several broad aspects of exoplanet research:
 
 Currently, the most successful exoplanet planet detection methods are -
 
-<hr>
-## Transit
+<h2> Transit </h2>
 
 A transit occurs when a planet orbits its host star across the line of sight of the observer.
 During a transit, the planet blocks the light from the star which makes it appear dimmer.
 The transit photometry measures the change in stellar brightness when a transit occurs. 
 In the presence of a planet, the star's light curve will show a characteristic "dip" periodically.
 
-<iframe width="649" height="360" src="https://www.youtube.com/embed/eMtnwyHQ6rU?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-<br>Credit: ESA</br> #add link to ESA
+<img src="/assets/img/science/Detecting_exoplanets_with_transits_esa.jpg" alt="Transit" height="400">
+<b>Credit: European Space Agency</b>
 
-<hr>
-## Radial velocity
+<h2> Radial velocity </h2>
 
 In a planetary system, the host star "wobbles" about the center of mass or changes its velocity 
 because it experiences gravitational pull from the planet. The spectrum of the star is blueshifted 
@@ -48,13 +46,12 @@ The radial velocity methods monitors the spectrum of the host star and searches 
 changes due to the presence of a planet.
 
 <img src="/assets/img/science/RV_img_eso.jpeg" alt="Radial velocity" height="400">
-Credit: ESO
+<b>Credit: European Southern Observatory</b>
 
-<hr>
-## Transit spectroscopy
+<h2> Transit spectroscopy </h2>
 
 <img src="/assets/img/science/Transmission_spectroscopy.png" alt="Radial velocity" height="400">
-Credit: ESA, CC BY-SA 3.0 IGO
+<b>Credit: European Space Agency</b>
 
 <!-- Transit spectroscopy - ESA, CC BY-SA 3.0 IGO
 Spectroscopy is the technique of splitting received starlight into its different colours 
