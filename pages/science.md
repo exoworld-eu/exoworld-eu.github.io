@@ -25,7 +25,7 @@ The project will focus on several broad aspects of exoplanet research:
 <h3><li>Exoplanet atmospheres and habitability</li></h3>
 
 
-Currently, the most successful exoplanet planet detection methods are -
+Some of the exoplanet planet detection and characterisation methods that we make use of are -
 
 <h2> Transit </h2>
 
