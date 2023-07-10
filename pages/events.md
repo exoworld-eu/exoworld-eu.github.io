@@ -12,7 +12,7 @@ Next event:
 
 <body>
       <ul type = "square">
-         <li>Date: September 2023</li>
+         <li>Date: 2-3 November 2023</li>
          <li>Location: Online</li>
          <li><a href="https://events.hifis.net/event/818">Registration here</a></li>
          <li>Organiser: Artie Hatzes (TLS-Tautenburg)</li>
