@@ -7,12 +7,12 @@ tags: [secondment, exchange, japan]
 image: japan-tokyo-tower-jvharre.jpeg
 ---
 
-Jan-Vincent Harre is a PhD student at DLR, studying the tidal evolution of exoplanets. He recently carried out an exchange with our partner at the Astrobiology Center in Tokyo, Japan. Let's hear about his experience! (All photo credits on the page belongs to Jan-Vincent Harre)
+Jan-Vincent Harre is a PhD student at DLR, studying the tidal evolution of exoplanets. He recently carried out an exchange with our partner at the Astrobiology Center in Tokyo, Japan. Let's hear about his experience! (All photo credits on this page belong to Jan-Vincent Harre)
 
 <h3><b>What did I do there?</b></h3>
 I visited Japan, or more precisely, the Astrobiology Center at the NAOJ (National Astronomical Observatory of Japan) Mitaka campus in Tokyo thanks to the EU-funded EXOWORLD project. My stay started at the beginning of April and ended with the first week of May. My main goals were to learn about radial velocity measurements and the Rossiter-McLaughlin (RM) effect, and applying the gained knowledge to our data set of RM observations in order to constrain the orbital obliquities in those systems. Orbital obliquity refers to the angle between the stellar rotation axis and the orbital axis of the planet. Thanks to great explanations and training by my supervisor at the NAOJ, Dr. Teruyuki Hirano, we obtained new results from our data set. Besides my work at the NAOJ in Tokyo, I also participated in the Protostars & Planets 7 conference in Kyoto. The main topics of this conference were star and planet formation, which provided me with some takeaways for my own work.
 
-How did the international collaberation work out?
+<h3><b>How did the international collaberation work out?</b></h3>
 The international cooperation went really well with no hiccups along the way. Everyone was super friendly and helpful at the institute, and I was able to exchange some ideas with a few people for our own respective work. Besides, it was a great pleasure to meet so many fellow scientists and students, and to also talk about non work-related topics during several dinners.
 
 <h3><b>How was the culture?</b></h3>
