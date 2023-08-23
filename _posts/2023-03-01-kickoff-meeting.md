@@ -3,7 +3,7 @@ layout: post
 title: "EXOWORLD kickoff meeting"
 author: "Kristine Lam"
 categories: blog
-tags: [networking]
+tags: [networking, berlin]
 image: berlin-temp.jpeg
 ---
 
