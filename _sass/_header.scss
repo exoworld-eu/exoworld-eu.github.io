@@ -19,6 +19,13 @@
 .site-header a {
   text-decoration: none;
 }
+.site-title::before {
+	content: url("/assets/earth-11015_1280.jpeg");
+	display: inline-block;
+	position: relative;
+	width: 32px;
+	top: 5px;
+}
 .site-title {
   font-size: 26px;
   font-weight: 400;
