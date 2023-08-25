@@ -28,10 +28,3 @@ $rss-color: #ff6600;
 
 @import "-sections-dir";
 
-.site-title::before {
-        content: url("");
-        display: inline-block;
-        position: relative;
-        max-width: 35px;
-        top: 5px;
-}
