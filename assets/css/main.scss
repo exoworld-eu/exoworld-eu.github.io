@@ -29,9 +29,9 @@ $rss-color: #ff6600;
 @import "-sections-dir";
 
 .site-title::before {
-        content: url("/assets/img/test_logo2.png");
+        content: url("");
         display: inline-block;
         position: relative;
-        max-width: 10%;
-        top: 10px;
+        max-width: 35px;
+        top: 5px;
 }
