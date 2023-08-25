@@ -32,7 +32,6 @@ $rss-color: #ff6600;
         content: url("/assets/img/test_logo2.png");
         display: inline-block;
         position: relative;
-        width: 10px;
-	height: 10px;
+        max-width: 10%;
         top: 10px;
 }
