@@ -11,6 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "EXOWORLD"
+logo:			"/assets/img/earth-11015_1280.jpeg"
 description:	       "Understanding the evolution of EXOplanets and towards habitable WORLDs"
 author:              "."
 
