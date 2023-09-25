@@ -4,8 +4,13 @@ title: "How an astronomical mirror becomes an improved view"
 author: "Petr Kabath"
 categories: blog
 tags: [exchanges, platospec, chile]
-image: []
+image: /assets/img/platospec_mirror_img/
 ---
+
+<figure>
+  <img src="/assets/img/platospec_mirror_img/" alt="Figure 1" height="300">
+  <figcaption>Figure 1: The team, Jirka Srba, Luděk Řezba, Marek Skarka and me, taking the photo.</figcaption>
+</figure>
 
 
 <a href="https://erasmus.asu.cas.cz/blog/22_08_mirror.html" target="_blank" rel="noopener noreferrer" style="color:red;">Link to ASU blog</a>!
@@ -13,11 +18,6 @@ image: []
 The PLATOSpec instrument, which will be a planet hunter spectrograph, will be installed on 1.52-m former ESO telescope at La Silla observatory in Chile. The 1.52-m telescope, E152, was one of the first operational telescopes at La Silla and it was inaugurated in 1967. Since then, E152 had installed famous spectrographs, including FEROS, which contributed to the study of thousands of stars in the Milky way. However, the E152 telescope was shut down in 2003. The resurrection of the telescope happened in 2022 when all the systems were upgraded and a new interim spectrograph PUCHEROS+ was mounted. Later in 2024, this spectrograph will be replaced by the PLATOSpec.
 But for now, with the telescope operational after the control system upgrade, we needed to settle last issue before we could start regular observing. The main telescope mirror was dusty and the aluminium surface needed a new layer. The aluminimum on the mirror is responsible for the reflection of the light into instruments. The better the layer, the higher the reflectivity and the more light comes to the spectrograph. The aluminimum layer of E152 was not renewed for more than 30 years. Thus we decided to organize a trip to Chile to realuminize the mirror. Here is a short report from our trip and also a description of the whole process. 
 We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city about 500 km north of Santiago de Chile, was just about 45 minutes from Santiago. The team was in a good mood as you can see in Figure 1.
-
-<figure>
-  <img src="/assets/img/platospec_mirror_img/" alt="Figure 1" height="300">
-  <figcaption>Figure 1: The team, Jirka Srba, Luděk Řezba, Marek Skarka and me, taking the photo.</figcaption>
-</figure>
 
 <figure>
   <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" height="300">
