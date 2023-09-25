@@ -4,7 +4,7 @@ title: "How an astronomical mirror becomes an improved view"
 author: "Petr Kabath"
 categories: blog
 tags: [exchanges, platospec, chile]
-image: platospec_mirror_img/01.jpg
+image: /platospec_mirror_img/01.jpg
 ---
 
 <figure>
