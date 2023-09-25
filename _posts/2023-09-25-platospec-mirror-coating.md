@@ -3,8 +3,8 @@ layout: post
 title: "How an astronomical mirror becomes an improved view"
 author: "Petr Kabath"
 categories: blog
-tags: [exchanges, platospec]
-image: berlin-temp.jpeg %add platospeclogo or image or something
+tags: [exchanges, platospec, chile]
+image: []
 ---
 
 
@@ -59,6 +59,24 @@ We moved the mirror in the telescope dome and prepared the crane. The crane is h
 </figure>
 
 The operation of test lifting of the mirror by the crane was successful, now the mirror was really naked and we needed to move it about 20 meters down where the coating pant is located – see Figure 8. The lifting went relatively smooth, we were moving naked glass of 800 kg so one needed to be really cautious. However, in the evening of the same day, we were done. The mirror was placed in the mirror lab on the small table under a huge device which is sucking out the air to remove the chemicals used for the mirror washing later – see Figure 9. Goal accomplished for today!
+
+
+<figure>
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/platospec_mirror_img/08_1.jpg" alt="Figure 8.1" height="300">
+  </div>
+  <div class="column">
+    <img src="/assets/img/platospec_mirror_img/08_2.jpg" alt="Figure 8.2" height="300">
+  </div>
+  <div class="column">
+    <img src="/assets/img/platospec_mirror_img/08_3.jpg" alt="Figure 8.3" height="300">
+  </div>
+</div>  
+  <figcaption>Figure 8: The lifting operation. Our mirror is hanging on the crane and a few moments later it is already in the ground floor.</figcaption>
+</figure>
+
+
 
 <figure>
   <img src="/assets/img/platospec_mirror_img/08_1.jpg" alt="Figure 8.1" height="300">
