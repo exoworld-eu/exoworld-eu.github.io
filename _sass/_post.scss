@@ -1,5 +1,5 @@
 .post-content {
-  width: 600px;
+  width: 800px;
   display: block;
   margin: 10px auto 10px;
 }
@@ -98,8 +98,8 @@
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column3 {
   float: left;
-  width: 33.33%;
-  padding: 1px;
+  width: 33%;
+  padding: 0px;
 }
 
 /* Clear floats after image containers */
@@ -113,5 +113,5 @@
 .column2 {
   float: left;
   width: 50%;
-  padding: 1px;
+  padding: 0px;
 }
