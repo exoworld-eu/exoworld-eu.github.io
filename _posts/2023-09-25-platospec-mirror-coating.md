@@ -18,7 +18,7 @@ We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city
 
 
 
-<table class="image" cellspacing="0" cellpadding="0">
+<table class="image">
 <caption align="bottom"
 style="background: #ccc; color: #000";
 >Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation. From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</caption>
