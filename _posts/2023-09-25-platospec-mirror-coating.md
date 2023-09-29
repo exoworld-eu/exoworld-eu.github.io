@@ -111,13 +111,13 @@ On April 19, Andres washed the mirror and removed the old coating – see Figure
 <figure>
 <div class="row">
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/11_1.jpg" alt="Figure 11.1" height="200">
+    <img src="/assets/img/platospec_mirror_img/11_1.jpg" alt="Figure 11.1" height="300">
   </div>
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/11_2.jpg" alt="Figure 11.2" height="200">
+    <img src="/assets/img/platospec_mirror_img/11_2.jpg" alt="Figure 11.2" height="300">
   </div>
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/11_3.jpg" alt="Figure 11.3" height="200">
+    <img src="/assets/img/platospec_mirror_img/11_3.jpg" alt="Figure 11.3" height="300">
   </div>
 </div>  
   <figcaption>Figure 11: Colleagues from ESO with help of Eike Guenther (left – image left, middle image - right) from Tautenburg are washing the mirror.</figcaption>
@@ -187,10 +187,10 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 <figure>
 <div class="row">
   <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" height="300">
+    <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" height="400">
   </div>
   <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" height="300">
+    <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" height="400">
   </div>
 </div>  
   <figcaption>Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the top figure NGC 3132 planetary nebula is shown and the bottom figure shows the NGC 3201 open cluster.</figcaption>
