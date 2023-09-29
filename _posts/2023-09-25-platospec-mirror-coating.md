@@ -61,13 +61,13 @@ The operation of test lifting of the mirror by the crane was successful, now the
 <figure>
 <div class="row">
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/08_1.jpg" alt="Figure 8.1" width="150">
+    <img src="/assets/img/platospec_mirror_img/08_1.jpg" alt="Figure 8.1" width="200">
   </div>
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/08_2.jpg" alt="Figure 8.2" width="150">
+    <img src="/assets/img/platospec_mirror_img/08_2.jpg" alt="Figure 8.2" width="200">
   </div>
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/08_3.jpg" alt="Figure 8.3" width="150">
+    <img src="/assets/img/platospec_mirror_img/08_3.jpg" alt="Figure 8.3" width="200">
   </div>
 </div>  
   <figcaption>Figure 8: The lifting operation. Our mirror is hanging on the crane and a few moments later it is already in the ground floor.</figcaption>
@@ -82,36 +82,67 @@ The operation of test lifting of the mirror by the crane was successful, now the
 The next days were more relaxed as we were waiting for an ESO optician Andres Gonzales who arrived on 18 April and started to prepare the coating unit – see Figure 10. All was set and we were ready for the big day!
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" height="300">
-  <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" height="300">
-  <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" height="300">
-  <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" height="300">
+<div class="row">
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" height="300">
+  </div>
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" height="300">
+  </div>
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" height="300">
+  </div>
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" height="300">
+  </div>
+</div>  
   <figcaption>Figure 10: Team members checking the coating plant.</figcaption>
 </figure>
 
 On April 19, Andres washed the mirror and removed the old coating – see Figure 11. Before, he measured the reflectivity to be about 70%. That is not bad given the fact the telescope was out of operations for about 20 years and it was coated only 30 years ago. But still once the old aluminimum coating was removed, we moved the mirror into the coating unit, see Figure 12. We had a brief episode with a fuse of the crane which kicked-in and the crane stopped and we also had some problems with the mirror placement in the coating plant but all was settled by Ludek Řezba, our chief technician and a true hero of the whole operation and finally in the afternoon of April 19, the coating unit started to put on a new aluminium surface on our mirror.    
 
+
 <figure>
-  <img src="/assets/img/platospec_mirror_img/11_1.jpg" alt="Figure 11.1" height="300">
-  <img src="/assets/img/platospec_mirror_img/11_2.jpg" alt="Figure 11.2" height="300">
-  <img src="/assets/img/platospec_mirror_img/11_3.jpg" alt="Figure 11.3" height="300">
+<div class="row">
+  <div class="column3">
+    <img src="/assets/img/platospec_mirror_img/11_1.jpg" alt="Figure 11.1" height="200">
+  </div>
+  <div class="column3">
+    <img src="/assets/img/platospec_mirror_img/11_2.jpg" alt="Figure 11.2" height="200">
+  </div>
+  <div class="column3">
+    <img src="/assets/img/platospec_mirror_img/11_3.jpg" alt="Figure 11.3" height="200">
+  </div>
+</div>  
   <figcaption>Figure 11: Colleagues from ESO with help of Eike Guenther (left – image left, middle image - right) from Tautenburg are washing the mirror.</figcaption>
-</figure> 
+</figure>
 
  
 The air was pumped out of the coating unit to create the vacuum. The whole process took about 5 hours. Then Andrés started the process of coating which is done by a few coils which are heated up so the aluminium vaporizes and sticks at the mirror surface which needs to be really clean. Thanks to Andrés this process took only about 45 minutes. Then we inspected the new surface and it was gorgeous – see Figure 13. The chamber was closed and evacuated and the mirror rested there till the next day.
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/12_1.jpg" alt="Figure 12.1" height="300">
-  <img src="/assets/img/platospec_mirror_img/12_2.jpg" alt="Figure 12.2" height="300">
+<div class="row">
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/12_1.jpg" alt="Figure 12.1" height="300">
+  </div>
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/12_2.jpg" alt="Figure 12.2" height="300">
+  </div>
+</div>  
   <figcaption>Figure 12: The mirror placed and fixed in the coating plant.</figcaption>
-</figure> 
+</figure>
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/13_1.jpg" alt="Figure 13.1" height="300">
-  <img src="/assets/img/platospec_mirror_img/13_2.jpg" alt="Figure 13.2" height="300">
+<div class="row">
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/13_1.jpg" alt="Figure 13.1" height="300">
+  </div>
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/13_2.jpg" alt="Figure 13.2" height="300">
+  </div>
+</div>  
   <figcaption>Figure 13: A new coating, the mirror is now shiny and looking as good as new.</figcaption>
-</figure> 
+</figure>
 
 
 On April 20, we lifted the mirror up to the top floor by the crane (Fig. 14) and the installation in the telescope tube started. Of course, still in the coating plant, we needed to take an obligatory photo of the team – Figure 15. Then the mirror was successfully lifted up into the dome (Fig. 16).
@@ -140,10 +171,17 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 </figure>
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" height="300">
-  <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" height="300">
+<div class="row">
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" height="300">
+  </div>
+  <div class="column2">
+    <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" height="300">
+  </div>
+</div>  
   <figcaption>Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the top figure NGC 3132 planetary nebula is shown and the bottom figure shows the NGC 3201 open cluster.</figcaption>
-</figure> 
+</figure>
+
 
 The whole work was conducted successfully thanks to an enormous effort of the teams of:
 The Astronomical Institute of the Czech Academy of Sciences – Petr Kabáth, Luděk Řezba, Marek Skarka, Jiří Srba
