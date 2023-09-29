@@ -89,6 +89,8 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
   <div class="column2">
     <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" height="300">
   </div>
+</div>  
+<div class="row">
   <div class="column2">
     <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" height="300">
   </div>
