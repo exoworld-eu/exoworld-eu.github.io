@@ -12,7 +12,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "EXOWORLD"
 description:	       "Understanding the evolution of EXOplanets and towards habitable WORLDs"
-author:              "."
+author:              "Kristine Lam"
 
 # Define collection called events
 collections:
