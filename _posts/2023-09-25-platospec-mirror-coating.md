@@ -17,7 +17,7 @@ But for now, with the telescope operational after the control system upgrade, we
 We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city about 500 km north of Santiago de Chile, was just about 45 minutes from Santiago. The team was in a good mood as you can see in Figure 1.   
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" height="300">
+  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" width="500">
   <figcaption>Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation. From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</figcaption>
 </figure>
 
@@ -50,6 +50,8 @@ We moved the mirror in the telescope dome and prepared the crane. The crane is h
   <figcaption>Figure 6: The mirror standing on the legs out of the collar.</figcaption>
 </figure>
 
+<br>
+
 <figure>
   <img src="/assets/img/platospec_mirror_img/07.jpg" alt="Figure 7" height="300">
   <figcaption>Figure 7: A painting by kids from Ondrejov kindergarten is mirrored by the mirror. This is a universe view through childrens eyes.</figcaption>
@@ -73,6 +75,8 @@ The operation of test lifting of the mirror by the crane was successful, now the
   <figcaption>Figure 8: The lifting operation. Our mirror is hanging on the crane and a few moments later it is already in the ground floor.</figcaption>
 </figure>
 
+<br>
+
 <figure>
   <img src="/assets/img/platospec_mirror_img/09.jpg" alt="Figure 9" height="300">
   <figcaption>Figure 9: And we are done for the day. The mirror is parked below the huge fan which will be removing vapors from the washing of the mirror next day.</figcaption>
@@ -84,18 +88,18 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
 <figure>
 <div class="row">
   <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" height="300">
+    <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" width="300">
   </div>
   <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" height="300">
+    <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" width="300">
   </div>
 </div>  
 <div class="row">
   <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" height="300">
+    <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" width="300">
   </div>
   <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" height="300">
+    <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" width="300">
   </div>
 </div>  
   <figcaption>Figure 10: Team members checking the coating plant.</figcaption>
@@ -134,6 +138,8 @@ The air was pumped out of the coating unit to create the vacuum. The whole proce
   <figcaption>Figure 12: The mirror placed and fixed in the coating plant.</figcaption>
 </figure>
 
+<br>
+
 <figure>
 <div class="row">
   <div class="column2">
@@ -154,10 +160,14 @@ On April 20, we lifted the mirror up to the top floor by the crane (Fig. 14) and
   <figcaption>Figure 14: Fixing of the mirror to the crane before it was lifted up from the coating chamber.</figcaption>
 </figure>
 
+<br>
+
 <figure>
   <img src="/assets/img/platospec_mirror_img/15.jpg" alt="Figure 15" height="300">
   <figcaption>Figure 15: This is not a COVID team but the team which was involved with the mirror coating process. From left – Andrés Gonzales (ESO), Luděk Řezba, Marek Skarka, Eike Guenther (Tautenburg Observatory, Germany), Petr Kabáth and Jiří Srba.</figcaption>
 </figure>
+
+<br>
 
 <figure>
   <img src="/assets/img/platospec_mirror_img/16.jpg" alt="Figure 16" height="300">
@@ -171,6 +181,8 @@ Everything went smooth and the mirror was back on 20 April but first everything 
   <img src="/assets/img/platospec_mirror_img/17.jpg" alt="Figure 17" height="300">
   <figcaption>Figure 17: Jiří Srba in checking cables and the tube after the mirror was put back to the telescope.</figcaption>
 </figure>
+
+<br>
 
 <figure>
 <div class="row">
