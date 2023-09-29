@@ -23,12 +23,10 @@ We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city
 
 The arrival at the gate of the European Southern Observatory happened about 2.5 hrs later and we were cheered by a guardian dog as can be seen in Figure 2. At the mountain, our Chilean colleagues, Abner and Luca from Pontifica Universidad Católica were already working at E152, dismounting the front end of the spectrograph PUCHEROS+ and the status of the telescope at this stage can be seen in Figure 3. We met them and after a brief discussion, we went to have a rest after a long trip.
 
-<div class="wrap">
-	<figure>
-  	<img src="/assets/img/platospec_mirror_img/03.jpg" alt="Figure 3" height="300">
-  	<figcaption>Figure 3: Front-end platform of E152 without PUCHEROS+ front-end that was dismounted by our Chileans colleagues. We are now ready for the dismounting of the mirror.</figcaption>
-	</figure>
-</div>
+<figure>
+  <img src="/assets/img/platospec_mirror_img/03.jpg" alt="Figure 3" height="300">
+  <figcaption>Figure 3: Front-end platform of E152 without PUCHEROS+ front-end that was dismounted by our Chileans colleagues. We are now ready for the dismounting of the mirror.</figcaption>
+</figure>
 
 On April 14 and 15, after some rest, we started serious work. First, the mirror was checked (Figure 4).  Then an imaging CCD camera was mounted in the cassegrain focus, basically in the bottom part of the telescope as shown in Figure 3. We made a few exposures of some stars to check the alignment of the telescope at night time. The images were stored and checked later once the mirror is back after recoating. All tests were good and we were ready for a big day, when the mirror was removed.
 
