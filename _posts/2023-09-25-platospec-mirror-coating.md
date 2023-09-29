@@ -67,7 +67,7 @@ The operation of test lifting of the mirror by the crane was successful, now the
     <img src="/assets/img/platospec_mirror_img/08_2.jpg" alt="Figure 8.2" width="150">
   </div>
   <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/08_3.jpg" alt="Figure 8.3" width="100">
+    <img src="/assets/img/platospec_mirror_img/08_3.jpg" alt="Figure 8.3" width="150">
   </div>
 </div>  
   <figcaption>Figure 8: The lifting operation. Our mirror is hanging on the crane and a few moments later it is already in the ground floor.</figcaption>
