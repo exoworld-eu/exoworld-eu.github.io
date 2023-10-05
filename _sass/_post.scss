@@ -124,10 +124,11 @@
   display: table;
 }
 
-
-.myImage {
-    float:left;
+.figure {
+  display: table;
 }
 
-.container { overflow: auto; }
-
+.figcaption {
+  display: table-caption;
+  caption-side: bottom;
+}
