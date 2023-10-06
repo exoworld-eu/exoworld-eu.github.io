@@ -45,6 +45,10 @@ On April 14 and 15, after some rest, we started serious work. First, the mirror 
 On April 16, the action started, we removed inner parts of the telescope just above the mirror – see Figure 4 from inside of the telescope tube. Then we removed the dish with the main mirror and things started to be delicate. The naked mirror came out in all of its beauty, we had to be really patient and cautious. See Figure 5 where the mirror is disconnected from the telescope.
 </p>
 
+<br>
+<br>
+<br>
+
 <floatright>
 <img src="/assets/img/platospec_mirror_img/05.jpg" alt="Figure 5" height="150"><br>Figure 5: The mirror is disconnected from the telescope. On the left hand side, there is a temperature sensor, which needed to be dismounted. One can see, that there is a lot of dust on the mirror.
 </floatright>
