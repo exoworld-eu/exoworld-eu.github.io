@@ -45,14 +45,13 @@ On April 14 and 15, after some rest, we started serious work. First, the mirror 
 On April 16, the action started, we removed inner parts of the telescope just above the mirror – see Figure 4 from inside of the telescope tube. Then we removed the dish with the main mirror and things started to be delicate. The naked mirror came out in all of its beauty, we had to be really patient and cautious. See Figure 5 where the mirror is disconnected from the telescope.
 </p>
 
+<floatright>
+<img src="/assets/img/platospec_mirror_img/05.jpg" alt="Figure 5" height="150"><br>Figure 5: The mirror is disconnected from the telescope. On the left hand side, there is a temperature sensor, which needed to be dismounted. One can see, that there is a lot of dust on the mirror.
+</floatright>
 
-<figure>
-  <img src="/assets/img/platospec_mirror_img/05.jpg" alt="Figure 5" height="300">
-  <figcaption>Figure 5: The mirror is disconnected from the telescope. On the left hand side, there is a temperature sensor, which needed to be dismounted. One can see, that there is a lot of dust on the mirror.</figcaption>
-</figure>
-
-
+<p>
 We moved the mirror in the telescope dome and prepared the crane. The crane is hanging on the dome, so, if you wish to move the mirror, then one needs to turn the dome. The mirror itself is a single piece of glass with a weight of 800 kg, the pot which holds it adds another 400 kg. This was moved on the small three legs (Figure 6) under the crane and before we moved the mirror down, a photo of a painting depicting the universe how children see it, was taken – see Figure 7. The dome is a big building with 3 floors and we needed to move the mirror from the upper floor to the ground floor, where the coating unit is located.
+</p>
 
 <figure>
   <img src="/assets/img/platospec_mirror_img/06.jpg" alt="Figure 6" height="300">
