@@ -23,9 +23,8 @@ We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city
 
 The arrival at the gate of the European Southern Observatory happened about 2.5 hrs later and we were cheered by a guardian dog as can be seen in Figure 2. At the mountain, our Chilean colleagues, Abner and Luca from Pontifica Universidad Católica were already working at E152, dismounting the front end of the spectrograph PUCHEROS+ and the status of the telescope at this stage can be seen in Figure 3. We met them and after a brief discussion, we went to have a rest after a long trip.
 
-
 <figure>
-  <img src="/assets/img/platospec_mirror_img/03.jpg" alt="Figure 3" height="300" />
+  <img src="/assets/img/platospec_mirror_img/03.jpg" alt="Figure 3" height="300">   
   <figcaption>Figure 3: Front-end platform of E152 without PUCHEROS+ front-end that was dismounted by our Chileans colleagues. We are now ready for the dismounting of the mirror.</figcaption>
 </figure>
 
