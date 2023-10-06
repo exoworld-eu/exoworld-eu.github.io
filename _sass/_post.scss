@@ -154,7 +154,7 @@ div.polaroid {
 
 div.container {
   text-align: center;
-  border-left: 15px solid transparent;
-  border-right: 15px solid transparent;
-  border-bottom: 15px solid transparent;
+  padding: 10px 20px;
+  word-break: break-all;
+  white-space: pre-line;
 }
