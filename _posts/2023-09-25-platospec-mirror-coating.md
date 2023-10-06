@@ -31,9 +31,9 @@ The arrival at the gate of the European Southern Observatory happened about 2.5 
 
 On April 14 and 15, after some rest, we started serious work. First, the mirror was checked (Figure 4).  Then an imaging CCD camera was mounted in the cassegrain focus, basically in the bottom part of the telescope as shown in Figure 3. We made a few exposures of some stars to check the alignment of the telescope at night time. The images were stored and checked later once the mirror is back after recoating. All tests were good and we were ready for a big day, when the mirror was removed.
 
-<div>
+<wrapleft>
 <img src="/assets/img/platospec_mirror_img/04.jpg" alt="Figure 4" height="300"><br>Figure 4: Inside the telescope tube above the mirror cover checking what needs to be done.
-</div>
+</wrapleft>
 
 <p>
 On April 16, the action started, we removed inner parts of the telescope just above the mirror – see Figure 4 from inside of the telescope tube. Then we removed the dish with the main mirror and things started to be delicate. The naked mirror came out in all of its beauty, we had to be really patient and cautious. See Figure 5 where the mirror is disconnected from the telescope.
