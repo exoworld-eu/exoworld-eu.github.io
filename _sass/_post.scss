@@ -171,6 +171,7 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
+  text-align: center;
 }
 
 div.desc {
@@ -188,7 +189,7 @@ div.desc {
   width: 24.99999%;
 }
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
   .responsive {
     width: 49.99999%;
     margin: 6px 0;

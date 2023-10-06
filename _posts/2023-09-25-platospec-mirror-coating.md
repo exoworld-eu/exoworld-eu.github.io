@@ -195,11 +195,10 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 </figure>
 
 <br>
-<div class="clearfix">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_1.jpg">
-      <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" width="200">
+      <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" width="300">
     </a>
     <div class="desc">NGC 3132 planetary nebula</div>
   </div>
@@ -208,15 +207,16 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_2.jpg">
-      <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" width="200">
+      <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" width="300">
     </a>
     <div class="desc">NGC 3201 open cluster</div>
   </div>
 </div>
-</div>
+
+<div class="clearfix"></div>
 
 <div class="caption">
-         Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the left figure NGC 3132 planetary nebula is shown and the right figure shows the NGC 3201 open cluster.
+         Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. 
 </div>
 
 <br>
