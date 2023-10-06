@@ -34,7 +34,7 @@ The arrival at the gate of the European Southern Observatory happened about 2.5 
 
 
 <floatright>
-<img src="/assets/img/platospec_mirror_img/04.jpg" alt="Figure 4" height="300"><br>Figure 4: Inside the telescope tube above the mirror cover checking what needs to be done.
+<img src="/assets/img/platospec_mirror_img/04.jpg" alt="Figure 4" height="250"><br>Figure 4: Inside the telescope tube above the mirror cover checking what needs to be done.
 </floatright>
 
 <p>
@@ -200,7 +200,7 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_1.jpg">
-      <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" height="300">
+      <img src="/assets/img/platospec_mirror_img/18_1.jpg" alt="Figure 18.1" width="200">
     </a>
     <div class="desc">NGC 3132 planetary nebula</div>
   </div>
@@ -209,12 +209,12 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_2.jpg">
-      <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" height="300">
+      <img src="/assets/img/platospec_mirror_img/18_2.jpg" alt="Figure 18.2" width="200">
     </a>
     <div class="desc">NGC 3201 open cluster</div>
   </div>
 </div>
-  <figcaption>Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the top figure NGC 3132 planetary nebula is shown and the bottom figure shows the NGC 3201 open cluster.</figcaption>
+  <figcaption>Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the left figure NGC 3132 planetary nebula is shown and the right figure shows the NGC 3201 open cluster.</figcaption>
 </figure>
 
 The whole work was conducted successfully thanks to an enormous effort of the teams of:
