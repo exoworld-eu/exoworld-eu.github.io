@@ -217,6 +217,9 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 </figure>
 
 <br>
+
+<floatleft>
+
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_1.jpg">
@@ -240,6 +243,8 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 <div class="caption">
          Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. 
 </div>
+
+</floatleft>
 
 <br>
 The whole work was conducted successfully thanks to an enormous effort of the teams of:
