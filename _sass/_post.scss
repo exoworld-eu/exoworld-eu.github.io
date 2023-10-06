@@ -202,6 +202,26 @@ div.desc {
   }
 }
 
+
+.responsive-text {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
+@media only screen and (max-width: 800px) {
+  .responsive-text {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive-text {
+    width: 100%;
+  }
+}
+
 .caption {
   display: block;
   font-size: 10pt;

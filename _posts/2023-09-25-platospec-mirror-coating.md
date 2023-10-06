@@ -245,7 +245,6 @@ Everything went smooth and the mirror was back on 20 April but first everything 
   </div>
 </div>
 
-<div class="shadow"> 
 
 <div class="responsive">
   <div class="gallery">
@@ -254,14 +253,13 @@ Everything went smooth and the mirror was back on 20 April but first everything 
     </a>
     <div class="desc">NGC 3201 open cluster</div>
   </div>
-</div>
 
 <div class="clearfix"></div>
 
-<div class="caption">
+<div class="responsive-text">
+	<div class="caption">
          Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. 
-</div>
-
+	</div>
 </div>
 
 
