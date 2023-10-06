@@ -195,7 +195,7 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 </figure>
 
 <br>
-
+<div class="clearfix">
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_1.jpg">
@@ -212,6 +212,7 @@ Everything went smooth and the mirror was back on 20 April but first everything 
     </a>
     <div class="desc">NGC 3201 open cluster</div>
   </div>
+</div>
 </div>
 
 <div class="caption">
