@@ -102,7 +102,7 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
     <a target="_blank" href="/assets/img/platospec_mirror_img/10_1.jpg">
       <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" width="300">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc"> </div>
   </div>
 </div>
 
@@ -111,7 +111,7 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
     <a target="_blank" href="/assets/img/platospec_mirror_img/10_2.jpg">
       <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" width="300">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc"> </div>
   </div>
 </div>
 
@@ -120,7 +120,7 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
     <a target="_blank" href="/assets/img/platospec_mirror_img/10_3.jpg">
       <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" width="300">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc"> </div>
   </div>
 </div>
 
@@ -129,7 +129,7 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
     <a target="_blank" href="/assets/img/platospec_mirror_img/10_4.jpg">
       <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" width="300">
     </a>
-    <div class="desc">Add a description of the image here</div>
+    <div class="desc"> </div>
   </div>
 </div>
 
@@ -142,20 +142,38 @@ The next days were more relaxed as we were waiting for an ESO optician Andres Go
 On April 19, Andres washed the mirror and removed the old coating – see Figure 11. Before, he measured the reflectivity to be about 70%. That is not bad given the fact the telescope was out of operations for about 20 years and it was coated only 30 years ago. But still once the old aluminimum coating was removed, we moved the mirror into the coating unit, see Figure 12. We had a brief episode with a fuse of the crane which kicked-in and the crane stopped and we also had some problems with the mirror placement in the coating plant but all was settled by Ludek Řezba, our chief technician and a true hero of the whole operation and finally in the afternoon of April 19, the coating unit started to put on a new aluminium surface on our mirror.    
 
 
-<figure>
-<div class="row">
-  <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/11_1.jpg" alt="Figure 11.1" height="300">
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/11_1.jpg">
+      <img src="/assets/img/platospec_mirror_img/11_1.jpg" alt="Figure 11.1" height="300">
+    </a>
+    <div class="desc"> </div>
   </div>
-  <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/11_2.jpg" alt="Figure 11.2" height="300">
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/11_2.jpg">
+      <img src="/assets/img/platospec_mirror_img/11_2.jpg" alt="Figure 11.2" height="300">
+    </a>
+    <div class="desc"> </div>
   </div>
-  <div class="column3">
-    <img src="/assets/img/platospec_mirror_img/11_3.jpg" alt="Figure 11.3" height="300">
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/11_3.jpg">
+      <img src="/assets/img/platospec_mirror_img/11_3.jpg" alt="Figure 11.3" height="300">
+    </a>
+    <div class="desc"> </div>
   </div>
-</div>  
-  <figcaption>Figure 11: Colleagues from ESO with help of Eike Guenther (left – image left, middle image - right) from Tautenburg are washing the mirror.</figcaption>
-</figure>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="caption">
+        Figure 11: Colleagues from ESO with help of Eike Guenther (left – image left, middle image - right) from Tautenburg are washing the mirror.
+</div>
 
  
 The air was pumped out of the coating unit to create the vacuum. The whole process took about 5 hours. Then Andrés started the process of coating which is done by a few coils which are heated up so the aluminium vaporizes and sticks at the mirror surface which needs to be really clean. Thanks to Andrés this process took only about 45 minutes. Then we inspected the new surface and it was gorgeous – see Figure 13. The chamber was closed and evacuated and the mirror rested there till the next day.
@@ -218,7 +236,7 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 
 <br>
 
-<floatleft>
+
 
 <div class="responsive">
   <div class="gallery">
@@ -240,10 +258,10 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 
 <div class="clearfix"></div>
 
+<floatleft>
 <div class="caption">
          Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. 
 </div>
-
 </floatleft>
 
 <br>
