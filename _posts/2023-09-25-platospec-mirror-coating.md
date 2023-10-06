@@ -16,10 +16,13 @@ The PLATOSpec instrument, which will be a planet hunter spectrograph, will be in
 But for now, with the telescope operational after the control system upgrade, we needed to settle last issue before we could start regular observing. The main telescope mirror was dusty and the aluminium surface needed a new layer. The aluminimum on the mirror is responsible for the reflection of the light into instruments. The better the layer, the higher the reflectivity and the more light comes to the spectrograph. The aluminimum layer of E152 was not renewed for more than 30 years. Thus we decided to organize a trip to Chile to realuminize the mirror. Here is a short report from our trip and also a description of the whole process. 
 We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city about 500 km north of Santiago de Chile, was just about 45 minutes from Santiago. The team was in a good mood as you can see in Figure 1.   
 
-<table style="border: 0px solid black" align="center">
-<tr><td><img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" width="500"></td></tr>
-<tr><td scope="col">Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation.<br><small>From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</small></td></tr>
-</table>
+<div class="polaroid">
+  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" width="500">
+  <div class="container">
+  <p>Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation. From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</p>
+  </div>
+</div>
+
 
 The arrival at the gate of the European Southern Observatory happened about 2.5 hrs later and we were cheered by a guardian dog as can be seen in Figure 2. At the mountain, our Chilean colleagues, Abner and Luca from Pontifica Universidad Católica were already working at E152, dismounting the front end of the spectrograph PUCHEROS+ and the status of the telescope at this stage can be seen in Figure 3. We met them and after a brief discussion, we went to have a rest after a long trip.
 
@@ -29,13 +32,14 @@ The arrival at the gate of the European Southern Observatory happened about 2.5 
   <figcaption>Figure 3: Front-end platform of E152 without PUCHEROS+ front-end that was dismounted by our Chileans colleagues. We are now ready for the dismounting of the mirror.</figcaption>
 </figure>
 
-On April 14 and 15, after some rest, we started serious work. First, the mirror was checked (Figure 4).  Then an imaging CCD camera was mounted in the cassegrain focus, basically in the bottom part of the telescope as shown in Figure 3. We made a few exposures of some stars to check the alignment of the telescope at night time. The images were stored and checked later once the mirror is back after recoating. All tests were good and we were ready for a big day, when the mirror was removed.
 
-<wrapleft>
+<floatright>
 <img src="/assets/img/platospec_mirror_img/04.jpg" alt="Figure 4" height="300"><br>Figure 4: Inside the telescope tube above the mirror cover checking what needs to be done.
-</wrapleft>
+</floatright>
 
 <p>
+On April 14 and 15, after some rest, we started serious work. First, the mirror was checked (Figure 4).  Then an imaging CCD camera was mounted in the cassegrain focus, basically in the bottom part of the telescope as shown in Figure 3. We made a few exposures of some stars to check the alignment of the telescope at night time. The images were stored and checked later once the mirror is back after recoating. All tests were good and we were ready for a big day, when the mirror was removed.
+
 On April 16, the action started, we removed inner parts of the telescope just above the mirror – see Figure 4 from inside of the telescope tube. Then we removed the dish with the main mirror and things started to be delicate. The naked mirror came out in all of its beauty, we had to be really patient and cautious. See Figure 5 where the mirror is disconnected from the telescope.
 </p>
 
