@@ -16,7 +16,7 @@ The PLATOSpec instrument, which will be a planet hunter spectrograph, will be in
 But for now, with the telescope operational after the control system upgrade, we needed to settle last issue before we could start regular observing. The main telescope mirror was dusty and the aluminium surface needed a new layer. The aluminimum on the mirror is responsible for the reflection of the light into instruments. The better the layer, the higher the reflectivity and the more light comes to the spectrograph. The aluminimum layer of E152 was not renewed for more than 30 years. Thus we decided to organize a trip to Chile to realuminize the mirror. Here is a short report from our trip and also a description of the whole process. 
 We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city about 500 km north of Santiago de Chile, was just about 45 minutes from Santiago. The team was in a good mood as you can see in Figure 1.   
 
-<table style="border: 1px solid transparent" align="center">
+<table style="border: 0px solid black" align="center">
 <tr><td><img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" width="500"></td></tr>
 <tr><td scope="col">Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation.<br><small>From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</small></td></tr>
 </table>
