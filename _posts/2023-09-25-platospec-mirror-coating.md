@@ -97,25 +97,47 @@ The operation of test lifting of the mirror by the crane was successful, now the
 
 The next days were more relaxed as we were waiting for an ESO optician Andres Gonzales who arrived on 18 April and started to prepare the coating unit – see Figure 10. All was set and we were ready for the big day!
 
-<figure>
-<div class="row">
-  <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" width="300">
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/10_1.jpg">
+      <img src="/assets/img/platospec_mirror_img/10_1.jpg" alt="Figure 10.1" width="300">
+    </a>
+    <div class="desc">Add a description of the image here</div>
   </div>
-  <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" width="300">
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/10_2.jpg">
+      <img src="/assets/img/platospec_mirror_img/10_2.jpg" alt="Figure 10.2" width="300">
+    </a>
+    <div class="desc">Add a description of the image here</div>
   </div>
-</div>  
-<div class="row">
-  <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" width="300">
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/10_3.jpg">
+      <img src="/assets/img/platospec_mirror_img/10_3.jpg" alt="Figure 10.3" width="300">
+    </a>
+    <div class="desc">Add a description of the image here</div>
   </div>
-  <div class="column2">
-    <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" width="300">
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="/assets/img/platospec_mirror_img/10_4.jpg">
+      <img src="/assets/img/platospec_mirror_img/10_4.jpg" alt="Figure 10.4" width="300">
+    </a>
+    <div class="desc">Add a description of the image here</div>
   </div>
-</div>  
-  <figcaption>Figure 10: Team members checking the coating plant.</figcaption>
-</figure>
+</div>
+
+<div class="clearfix"></div>
+
+<div class="caption">
+         Figure 10: Team members checking the coating plant.
+</div>
 
 On April 19, Andres washed the mirror and removed the old coating – see Figure 11. Before, he measured the reflectivity to be about 70%. That is not bad given the fact the telescope was out of operations for about 20 years and it was coated only 30 years ago. But still once the old aluminimum coating was removed, we moved the mirror into the coating unit, see Figure 12. We had a brief episode with a fuse of the crane which kicked-in and the crane stopped and we also had some problems with the mirror placement in the coating plant but all was settled by Ludek Řezba, our chief technician and a true hero of the whole operation and finally in the afternoon of April 19, the coating unit started to put on a new aluminium surface on our mirror.    
 
