@@ -196,7 +196,6 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 
 <br>
 
-<figure>
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/platospec_mirror_img/18_1.jpg">
@@ -214,8 +213,10 @@ Everything went smooth and the mirror was back on 20 April but first everything 
     <div class="desc">NGC 3201 open cluster</div>
   </div>
 </div>
-  <figcaption>Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the left figure NGC 3132 planetary nebula is shown and the right figure shows the NGC 3201 open cluster.</figcaption>
-</figure>
+
+<div class="caption">
+         Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. In the left figure NGC 3132 planetary nebula is shown and the right figure shows the NGC 3201 open cluster.
+</div>
 
 The whole work was conducted successfully thanks to an enormous effort of the teams of:
 The Astronomical Institute of the Czech Academy of Sciences – Petr Kabáth, Luděk Řezba, Marek Skarka, Jiří Srba
