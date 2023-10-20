@@ -253,11 +253,12 @@ Everything went smooth and the mirror was back on 20 April but first everything 
 
 <div class="caption">
         Figure 18: The first test images after the mirror is coated and placed back in the telescope. They are beautiful. 
+
+</div>
 </div>
 
-
-
 <br>
+
 The whole work was conducted successfully thanks to an enormous effort of the teams of:
 The Astronomical Institute of the Czech Academy of Sciences – Petr Kabáth, Luděk Řezba, Marek Skarka, Jiří Srba
 Thueringerlandessternwarte Tautenburg – Eike Guenther
