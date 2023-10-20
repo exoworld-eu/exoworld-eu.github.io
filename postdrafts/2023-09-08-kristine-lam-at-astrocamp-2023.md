@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "PLATOSpec mirror coating"
-author: "Petr Kabath"
+title: "TITLE"
+author: "AUTHOR"
 categories: blog
-tags: [exchanges, platospec]
-image: berlin-temp.jpeg
+tags: [TAGS, TAGS]
+image: IMAGE.jpeg
 ---
 
 some texts....
