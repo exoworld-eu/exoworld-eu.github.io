@@ -17,15 +17,15 @@ But for now, with the telescope operational after the control system upgrade, we
 We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city about 500 km north of Santiago de Chile, was just about 45 minutes from Santiago. The team was in a good mood as you can see in Figure 1.   
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" width="300">   
+  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" height="400">   
   <figcaption>Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation. From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</figcaption>
 </figure>
 
 The arrival at the gate of the European Southern Observatory happened about 2.5 hrs later and we were cheered by a guardian dog as can be seen in Figure 2. At the mountain, our Chilean colleagues, Abner and Luca from Pontifica Universidad Católica were already working at E152, dismounting the front end of the spectrograph PUCHEROS+ and the status of the telescope at this stage can be seen in Figure 3. We met them and after a brief discussion, we went to have a rest after a long trip.
 
-<floatleft>
+<floatright>
 <img src="/assets/img/platospec_mirror_img/03.jpg" alt="Figure 3" height="300"><br>Figure 3: Front-end platform of E152 without PUCHEROS+ front-end that was dismounted by our Chileans colleagues. We are now ready for the dismounting of the mirror.
-</floatleft>
+</floatright>
 
 <floatright>
 <img src="/assets/img/platospec_mirror_img/04.jpg" alt="Figure 4" height="250"><br>Figure 4: Inside the telescope tube above the mirror cover checking what needs to be done.
@@ -59,7 +59,7 @@ We moved the mirror in the telescope dome and prepared the crane. The crane is h
 <br>
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/07.jpg" alt="Figure 7" height="300">
+  <img src="/assets/img/platospec_mirror_img/07.jpg" alt="Figure 7" height="400">
   <figcaption>Figure 7: A painting by kids from Ondrejov kindergarten is mirrored by the mirror. This is a universe view through childrens eyes.</figcaption>
 </figure>
 
