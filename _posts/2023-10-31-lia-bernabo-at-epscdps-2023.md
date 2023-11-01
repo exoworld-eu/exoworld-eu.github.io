@@ -21,7 +21,7 @@ The party continued with karaoke surrounded by dinosaur fossils! Many really int
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/dps-epsc-2023/IMG_20231005_11420201.jpeg">
-      <img src="/assets/img/dps-epsc-2023/IMG_20231005_11420201.jpeg" alt="IMAGE1-NAME" width="300">
+      <img src="/assets/img/dps-epsc-2023/IMG_20231005_11420201.jpeg" alt="IMAGE1-NAME" height="300">
     </a>
     <div class="desc"> </div>
   </div>
@@ -30,7 +30,7 @@ The party continued with karaoke surrounded by dinosaur fossils! Many really int
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/dps-epsc-2023/IMG_20231005_11423338.jpeg">
-      <img src="/assets/img/dps-epsc-2023/IMG_20231005_11423338.jpeg" alt="IMAGE2-NAME" width="300">
+      <img src="/assets/img/dps-epsc-2023/IMG_20231005_11423338.jpeg" alt="IMAGE2-NAME" height="300">
     </a>
     <div class="desc"> </div>
   </div>
@@ -39,7 +39,7 @@ The party continued with karaoke surrounded by dinosaur fossils! Many really int
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/dps-epsc-2023/IMG20231005183800.jpg">
-      <img src="/assets/img/dps-epsc-2023/IMG20231005183800.jpg" alt="IMAGE3-NAME" width="300">
+      <img src="/assets/img/dps-epsc-2023/IMG20231005183800.jpg" alt="IMAGE3-NAME" height="300">
     </a>
     <div class="desc"> </div>
   </div>
@@ -48,7 +48,7 @@ The party continued with karaoke surrounded by dinosaur fossils! Many really int
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="/assets/img/dps-epsc-2023/IMG20231006100408.jpg">
-      <img src="/assets/img/dps-epsc-2023/IMG20231006100408.jpg" alt="IMAGE4-NAME" width="300">
+      <img src="/assets/img/dps-epsc-2023/IMG20231006100408.jpg" alt="IMAGE4-NAME" height="300">
     </a>
     <div class="desc"> </div>
   </div>
