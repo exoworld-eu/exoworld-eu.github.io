@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "TITLE"
-author: "AUTHOR"
+title: "Outreach talk at Astrocamp 2023"
+author: "Kristine Lam"
 categories: blog
-tags: [TAGS, TAGS]
+tags: [outreach, networking]
 image: IMAGE.jpeg
 ---
 
-some texts....
+
+On 18th August 2023, I was invited to give a talk on the exoplanets at the
 
 <img src="/assets/img/kickoff-meeting.jpeg" alt="Kickoff meeting dinner">
