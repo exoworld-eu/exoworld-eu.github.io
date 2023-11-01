@@ -17,8 +17,10 @@ But for now, with the telescope operational after the control system upgrade, we
 We arrived in Santiago de Chile on April 13. The short trip to La Serena, a city about 500 km north of Santiago de Chile, was just about 45 minutes from Santiago. The team was in a good mood as you can see in Figure 1.   
 
 <figure>
-  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" height="400">   
-  <figcaption>Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation. From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.</figcaption>
+  <img src="/assets/img/platospec_mirror_img/02.jpg" alt="Figure 2" height="400">
+  <div class="caption">
+         Figure 2: La Silla Observatory main gate. Our group arrived together with a small team of TopTec Turnov (The Research Centre for Special Optics and Optoelectronic Systems). TopTec will be responsible for PlatoSpec frontend design and installation. From left: Marek Skarka, Luděk Řezba, Martin Veselý (TopTec), Pavel Pintr (TopTec) and Jiří Srba.
+  </div>   
 </figure>
 
 The arrival at the gate of the European Southern Observatory happened about 2.5 hrs later and we were cheered by a guardian dog as can be seen in Figure 2. At the mountain, our Chilean colleagues, Abner and Luca from Pontifica Universidad Católica were already working at E152, dismounting the front end of the spectrograph PUCHEROS+ and the status of the telescope at this stage can be seen in Figure 3. We met them and after a brief discussion, we went to have a rest after a long trip.
