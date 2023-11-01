@@ -80,6 +80,8 @@ You can also line up to 4 images in a row like a gallery in your blog.
 
 <div class="clearfix"></div>
 
+You can add a caption under the images using this:
+
 <div class="caption">
          Figure X: CAPTION FOR YOU IMAGES.
 </div>
