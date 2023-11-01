@@ -144,20 +144,6 @@ floatleft {
 }
 
 
-div.polaroid {
-  width: 100%;
-  background-color: white;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  margin-bottom: 25px;
-  border-right: 0px solid transparent;
-}
-
-div.container {
-  text-align: center;
-  padding: 10px;
-}
-
-
 /*testing the gallery element*/
 
 div.gallery {
@@ -176,7 +162,7 @@ div.gallery img {
 
 div.desc {
   padding: 5px;
-  text-align: left;
+  text-align: center;
 }
 
 * {
@@ -208,7 +194,7 @@ div.desc {
   font-size: 10pt;
   width: 100%;
   border: 3px solid transparent;
-  text-align: center;
+  text-align: left;
 }
 
 
