@@ -7,16 +7,18 @@ permalink: /events
 
 Next event:
 
-<h2>Writing better scientific papers and proposals workshop</h2>
+<h3>Bad Honnef Physics School</h3>
+<h2>A New Era in Exoplanet Atmosphere Observation and Characterisation</h2>
+
 <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MmY0b2FmZXJpcHZzOTNkZW9wNjZnY2VlY28gZXhvd29ybGQuZXVAbQ&amp;tmsrc=exoworld.eu%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
 
 <body>
       <ul type = "square">
-         <li>Date: 2-3 November 2023</li>
-         <li>Location: Online</li>
-         <li>Event website: <a href="https://www.writingclass.eu/">Visit!</a></li>
-         <li><a href="https://events.hifis.net/event/818">Registration here</a></li>
-         <li>Organiser: Artie Hatzes (TLS-Tautenburg)</li>
+         <li>Date: 20-25 July 2025</li>
+         <li>Location: Physikzentrum Bad Honnef, Germany</li>
+         <li>Event website: <a href="https://www.dpg-physik.de/veranstaltungen/2025/exoplanet_atmosphere_observation_and_characterisation">Visit!</a></li>
+         <li><a href="https://www.dpg-physik.de/veranstaltungen/2025/exoplanet_atmosphere_observation_and_characterisation">Registration here</a></li>
+         <li>Organiser: Dr. Kristine Lam & Dr. Nicolas Iro (DLR Berlin), Dr. Petr Kabáth (Czech Academy of Sciences), Prof. Dr. Artie Hatzes (Observatory Tautenburg)</li>
       </ul>
 </body>
 
